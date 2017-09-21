@@ -1,0 +1,10 @@
+com\alipay\util\httpClient\HttpRequest.class
+com\alipay\util\AlipaySubmit.class
+com\alipay\util\httpClient\HttpProtocolHandler.class
+com\alipay\util\httpClient\HttpResultType.class
+com\alipay\sign\MD5.class
+com\alipay\util\AlipayCore.class
+com\alipay\util\AlipayNotify.class
+com\alipay\config\AlipayConfig.class
+com\alipay\util\httpClient\HttpResponse.class
+com\alipay\util\UtilDate.class
